@@ -1,0 +1,9 @@
+AutoInformant Pro for openOMSI
+Version: 2.0.2
+Package: standalone Python app + Lua plugin v2 + portable .aipack manager
+Update: stop-audio reassignment from active pack or computer with package-safe imports
+Yandex API client: yandex-music 3.2.2 (community, unofficial; installed via requirements.txt)
+Package format: schema v1 (unchanged)
+Lua bridge: plugin v2 (unchanged from 2.0.0; no plugin update required)
+User settings: existing local settings remain schema v12; user-specific Yandex token stored separately using Windows DPAPI
+Prepared audio packs: same three packs as 2.0.0, unchanged

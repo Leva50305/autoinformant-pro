@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.pyw text eol=crlf
+
+*.png binary
+*.ico binary
+*.mp3 binary
+*.wav binary
+*.aipack binary

@@ -1,0 +1,29 @@
+# Пользовательские данные и локальные настройки
+autoinformant_pro_settings.json
+autoinformant_pro_settings.pre-v*.json
+*.dpapi
+logs/
+maps/
+packs/installed/
+packs/exports/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Системные и редакторские файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Временные файлы
+*.log
+*.tmp

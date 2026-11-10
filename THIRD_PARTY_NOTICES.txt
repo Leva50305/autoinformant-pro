@@ -1,0 +1,14 @@
+AutoInformant Pro 2.0.2 — Third-party notices
+
+1. yandex-music 3.2.2 (Python package / import name: yandex_music)
+   Project: https://github.com/MarshalX/yandex-music-api
+   Documentation: https://ym.marshal.dev/
+   License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+   Distribution: This package is not vendored in the AutoInformant Pro ZIP. It is installed by pip from PyPI using requirements.txt.
+   Relationship: AutoInformant Pro is an independent third-party application. Yandex and the library maintainers do not endorse or sponsor it.
+
+2. FFmpeg
+   The application uses imageio-ffmpeg to locate an FFmpeg executable. FFmpeg licensing and build information depend on the binary supplied by the installed imageio-ffmpeg package. See https://github.com/imageio/imageio-ffmpeg and https://ffmpeg.org/legal.html.
+
+Trademark and service notice
+   Yandex and Yandex Music are trademarks/service names of their respective owners. AutoInformant Pro is not an official Yandex application. The Yandex Music connector depends on a community client for an undocumented service API; compatibility may change without notice. Use your own account and follow the service's terms.
