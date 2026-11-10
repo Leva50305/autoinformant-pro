@@ -73,6 +73,12 @@ py -3 AutoInformant.py
 
 ## Аудиопаки
 
+<p align="center">
+  <a href="https://github.com/Leva50305/autoinformant-pro-audio-packs">
+    <img src="assets/banner-packs.png" alt="Аудиопаки AutoInformant Pro">
+  </a>
+</p>
+
 Готовые аудиотеки вынесены в отдельный репозиторий:
 **[autoinformant-pro-audio-packs](https://github.com/Leva50305/autoinformant-pro-audio-packs)**
 
